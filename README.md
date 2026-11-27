@@ -4,9 +4,9 @@
 
 **Real, public data:** Bureau of Transportation Statistics (BTS) on-time records for every flight by the 14 reporting U.S. airlines, October 2025 to September 2026: 7.06 million flights.
 
-<!-- tableau-link -->
+📊 **[Open the live dashboard on Tableau Public](https://public.tableau.com/app/profile/nicolette.mtisi6362/viz/flight_dashboard_17957504935560/Dashboard)** · workbook file: [`tableau/flight_dashboard.twbx`](tableau/flight_dashboard.twbx)
 
-![Flight delay dashboard](docs/dashboard.png)
+[![Flight delay dashboard](docs/dashboard.png)](https://public.tableau.com/app/profile/nicolette.mtisi6362/viz/flight_dashboard_17957504935560/Dashboard)
 
 ## The question
 
