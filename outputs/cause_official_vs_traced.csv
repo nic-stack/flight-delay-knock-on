@@ -1,0 +1,7 @@
+cause,official_share,traced_share
+Carrier,0.325589,0.447791
+National Airspace System,0.212868,0.325441
+Weather,0.059504,0.0784142
+Security,0.00140681,0.00216542
+Late aircraft,0.400632,0
+Untraceable,0,0.146188

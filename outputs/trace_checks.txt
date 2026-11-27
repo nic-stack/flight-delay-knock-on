@@ -1,0 +1,4 @@
+flights traced: 6,922,507
+delay minutes: 117,300,493  traced total: 117,300,493  (must match)
+late-aircraft minutes: 46,994,298  -> traceable part reassigned: 29,846,374, untraceable: 17,147,924
+backward check: downstream credited 29,846,374 vs forward reassigned 29,846,374; untraceable 17,147,924 vs 17,147,924

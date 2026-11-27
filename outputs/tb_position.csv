@@ -1,0 +1,46 @@
+airline_name,position,airline_share
+Alaska,2nd-3rd,0.4921996678717007
+Alaska,4th or later,0.60126599653052
+Alaska,First flight,0.49845028125395907
+All airlines,2nd-3rd,0.44925002023518495
+All airlines,4th or later,0.45646176209361017
+All airlines,First flight,0.562462871482643
+Allegiant,2nd-3rd,0.38810753106098156
+Allegiant,4th or later,0.4235958722261821
+Allegiant,First flight,0.5476644587778693
+American,2nd-3rd,0.4924522072126115
+American,4th or later,0.4526386568002921
+American,First flight,0.6102002068891486
+Delta,2nd-3rd,0.5106170667885298
+Delta,4th or later,0.508705288642694
+Delta,First flight,0.6360941496816053
+Envoy,2nd-3rd,0.22016020983248802
+Envoy,4th or later,0.23322290248562974
+Envoy,First flight,0.28168584941080405
+Frontier,2nd-3rd,0.46883913682776096
+Frontier,4th or later,0.362848198094607
+Frontier,First flight,0.6312285762420803
+Hawaiian,2nd-3rd,0.8336950020684172
+Hawaiian,4th or later,0.9078087694198724
+Hawaiian,First flight,0.924911357212466
+JetBlue,2nd-3rd,0.41631152749249317
+JetBlue,4th or later,0.36758368590140883
+JetBlue,First flight,0.5354555409210024
+PSA,2nd-3rd,0.46131024844928437
+PSA,4th or later,0.45592807608770464
+PSA,First flight,0.6517852025943833
+Republic,2nd-3rd,0.23912332778373704
+Republic,4th or later,0.1939438699264666
+Republic,First flight,0.40248227963547967
+SkyWest,2nd-3rd,0.6971169773982892
+SkyWest,4th or later,0.6789816086188017
+SkyWest,First flight,0.8456552799487328
+Southwest,2nd-3rd,0.48205615479272984
+Southwest,4th or later,0.5212347621672266
+Southwest,First flight,0.4772981783116835
+Spirit,2nd-3rd,0.6608665283596702
+Spirit,4th or later,0.6147621345372996
+Spirit,First flight,0.7185668385644527
+United,2nd-3rd,0.26166662678436453
+United,4th or later,0.20235145168127988
+United,First flight,0.39104670745752773

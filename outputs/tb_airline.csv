@@ -1,0 +1,27 @@
+airline_name,measure,share
+Alaska,Reported,0.3300160015551785
+Alaska,With knock-on delay,0.47174585098284283
+Allegiant,Reported,0.30684734144458053
+Allegiant,With knock-on delay,0.45388495389009026
+American,Reported,0.3334549936963164
+American,With knock-on delay,0.4416225957658348
+Delta,Reported,0.43724243916810496
+Delta,With knock-on delay,0.5750841240796862
+Envoy,Reported,0.2024177910861136
+Envoy,With knock-on delay,0.2694743413680184
+Frontier,Reported,0.24957102667915929
+Frontier,With knock-on delay,0.40844535298135476
+JetBlue,Reported,0.2733113199468905
+JetBlue,With knock-on delay,0.3932461626214716
+PSA,Reported,0.29074519103437385
+PSA,With knock-on delay,0.4287270236743295
+Republic,Reported,0.22740360033177712
+Republic,With knock-on delay,0.30151916021157105
+SkyWest,Reported,0.4528725360826885
+SkyWest,With knock-on delay,0.5474355183612918
+Southwest,Reported,0.28185766193358963
+Southwest,With knock-on delay,0.4756514108572715
+Spirit,Reported,0.3169867389399791
+Spirit,With knock-on delay,0.4795695870317841
+United,Reported,0.24528301021687768
+United,With knock-on delay,0.3082000289566337

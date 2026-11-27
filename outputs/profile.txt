@@ -1,0 +1,63 @@
+## Coverage
+ flights  first_day   last_day  airlines  aircraft  airports  pct_cancelled  pct_diverted  no_tail
+ 7057696 2025-10-01 2026-09-30        14      6347       361           1.92           0.3    18465
+
+## By month
+year_month  flights  pct_cancelled  pct_late15
+   2025-10   605844           0.53        20.3
+   2025-11   570550           2.49        20.6
+   2025-12   582304           1.55        26.8
+   2026-01   544003           4.71        20.8
+   2026-02   515037           2.25        19.8
+   2026-03   612102           2.90        24.3
+   2026-04   597919           0.90        20.2
+   2026-05   611735           0.92        21.4
+   2026-06   607577           1.65        25.7
+   2026-07   631970           2.62        28.3
+   2026-08   608389           1.86        26.9
+   2026-09   570266           0.85        22.9
+
+## Cancellation reasons (A carrier, B weather, C airspace system, D security)
+cancel_code  flights
+          A    29678
+          B    81628
+          C    23767
+          D      116
+
+## Cause minutes add up to arrival delay (flights 15+ min late)
+ late15  causes_missing  causes_add_up
+1604186               1        1604027
+
+## Causes recorded on flights under 15 min late
+ rows
+    0
+
+## Delay minutes by official cause
+ carrier_m  late_aircraft_m  nas_m  weather_m  security_m  carrier_pct  late_aircraft_pct  nas_pct  weather_pct
+     38.19            46.99  24.97       6.98       0.165         32.6               40.1     21.3          6.0
+
+## By airline
+airline  flights  pct_late15  pct_cancelled  late_aircraft_pct  aircraft
+     WN  1392043        25.1           0.93               51.3       859
+     DL  1040112        19.4           1.77               29.4      1014
+     AA   992337        25.7           2.10               47.1      1034
+     OO   857170        21.7           1.80               22.0       567
+     UA   834807        21.7           1.06               36.6      1150
+     YX   365651        22.4           4.65               39.5       222
+     MQ   323303        19.3           2.19               44.9       190
+     AS   318402        20.4           1.26               37.8       369
+     OH   243467        27.0           4.87               49.1       153
+     B6   243386        29.1           3.65               45.1       296
+     F9   216232        27.5           2.05               52.3       194
+     G4   126116        26.4           0.69               39.6       132
+     NK    84923        30.3           5.17               30.5       167
+     HA    19747        21.7           1.09               32.8        65
+
+## Following aircraft flight to flight
+   legs  with_previous  pct_previous_lands_at_this_origin  pct_previous_on_earlier_day
+6922507        6916165                              98.34                         25.1
+
+## Late-aircraft delays: is the previous flight traceable?
+ late_aircraft_flights  minutes_m  pct_min_previous_connects  pct_min_previous_15plus_late  pct_min_previous_was_overnight
+                843741      46.99                       93.3                          74.3                             3.2
+

@@ -1,0 +1,4 @@
+period,share_flights,share_new_delay,share_spread,spread_per_new_minute
+Morning (5-11),0.422706,0.332084,0.466859,0.596809
+Evening/night (17-4),0.284351,0.346607,0.136601,0.167307
+Afternoon (12-16),0.292943,0.321309,0.39654,0.523917

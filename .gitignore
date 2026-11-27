@@ -1,0 +1,10 @@
+.venv/
+data/raw/*
+!data/raw/bts_published_national.json
+!data/raw/carriers.csv
+data/interim/
+*.duckdb
+*.duckdb.wal
+.DS_Store
+scripts/mockup.py
+scripts/theme*.json

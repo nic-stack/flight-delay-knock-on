@@ -1,0 +1,106 @@
+airline_name,cause_order,cause,part,share,label
+Alaska,1,Caused by the airline,Airline's own (knock-on),0.14172984942766434,33% reported + 14% knock-on = 47%
+Alaska,1,Caused by the airline,Airline's own (reported),0.3300160015551785,33% reported + 14% knock-on = 47%
+Alaska,2,Air traffic system,Other causes (knock-on),0.11048239671352299,24% reported + 11% knock-on = 35%
+Alaska,2,Air traffic system,Other causes (reported),0.24399609635707284,24% reported + 11% knock-on = 35%
+Alaska,3,Weather,Other causes (knock-on),0.023393326598535536,5% reported + 2% knock-on = 7%
+Alaska,3,Weather,Other causes (reported),0.04751384250738725,5% reported + 2% knock-on = 7%
+Alaska,4,Start unknown*,Start unknown (knock-on),0.10286848684063819,"10%  (knock-on, start unknown)"
+All airlines,1,Caused by the airline,Airline's own (knock-on),0.12220196156074314,33% reported + 12% knock-on = 45%
+All airlines,1,Caused by the airline,Airline's own (reported),0.3255893903191012,33% reported + 12% knock-on = 45%
+All airlines,2,Air traffic system,Other causes (knock-on),0.11257293924002915,21% reported + 11% knock-on = 33%
+All airlines,2,Air traffic system,Other causes (reported),0.21286805674380244,21% reported + 11% knock-on = 33%
+All airlines,3,Weather,Other causes (knock-on),0.019668824458145735,6% reported + 2% knock-on = 8%
+All airlines,3,Weather,Other causes (reported),0.060910835217035275,6% reported + 2% knock-on = 8%
+All airlines,4,Start unknown*,Start unknown (knock-on),0.14618799246114658,"15%  (knock-on, start unknown)"
+Allegiant,1,Caused by the airline,Airline's own (knock-on),0.14703761244550972,31% reported + 15% knock-on = 45%
+Allegiant,1,Caused by the airline,Airline's own (reported),0.30684734144458053,31% reported + 15% knock-on = 45%
+Allegiant,2,Air traffic system,Other causes (knock-on),0.12600043311220574,18% reported + 13% knock-on = 31%
+Allegiant,2,Air traffic system,Other causes (reported),0.1815805703209891,18% reported + 13% knock-on = 31%
+Allegiant,3,Weather,Other causes (knock-on),0.061270264400914175,12% reported + 6% knock-on = 18%
+Allegiant,3,Weather,Other causes (reported),0.11562932417982023,12% reported + 6% knock-on = 18%
+Allegiant,4,Start unknown*,Start unknown (knock-on),0.061634454095981374,"6%  (knock-on, start unknown)"
+American,1,Caused by the airline,Airline's own (knock-on),0.10816760206951838,33% reported + 11% knock-on = 44%
+American,1,Caused by the airline,Airline's own (reported),0.3334549936963164,33% reported + 11% knock-on = 44%
+American,2,Air traffic system,Other causes (knock-on),0.07874354333445838,14% reported + 8% knock-on = 22%
+American,2,Air traffic system,Other causes (reported),0.14188405508355448,14% reported + 8% knock-on = 22%
+American,3,Weather,Other causes (knock-on),0.01931894922511503,5% reported + 2% knock-on = 7%
+American,3,Weather,Other causes (reported),0.053236464742963396,5% reported + 2% knock-on = 7%
+American,4,Start unknown*,Start unknown (knock-on),0.26519439184807453,"27%  (knock-on, start unknown)"
+Delta,1,Caused by the airline,Airline's own (knock-on),0.1378416849115813,44% reported + 14% knock-on = 58%
+Delta,1,Caused by the airline,Airline's own (reported),0.43724243916810496,44% reported + 14% knock-on = 58%
+Delta,2,Air traffic system,Other causes (knock-on),0.09739938725184524,23% reported + 10% knock-on = 32%
+Delta,2,Air traffic system,Other causes (reported),0.22553650605823392,23% reported + 10% knock-on = 32%
+Delta,3,Weather,Other causes (knock-on),0.01617567205826342,4% reported + 2% knock-on = 6%
+Delta,3,Weather,Other causes (reported),0.04333746964746716,4% reported + 2% knock-on = 6%
+Delta,4,Start unknown*,Start unknown (knock-on),0.04246684090450454,"4%  (knock-on, start unknown)"
+Envoy,1,Caused by the airline,Airline's own (knock-on),0.06705655028190481,20% reported + 7% knock-on = 27%
+Envoy,1,Caused by the airline,Airline's own (reported),0.2024177910861136,20% reported + 7% knock-on = 27%
+Envoy,2,Air traffic system,Other causes (knock-on),0.1515659628888112,23% reported + 15% knock-on = 38%
+Envoy,2,Air traffic system,Other causes (reported),0.22557451214270838,23% reported + 15% knock-on = 38%
+Envoy,3,Weather,Other causes (knock-on),0.06364941021803469,12% reported + 6% knock-on = 19%
+Envoy,3,Weather,Other causes (reported),0.12317736311517224,12% reported + 6% knock-on = 19%
+Envoy,4,Start unknown*,Start unknown (knock-on),0.16655841026725357,"17%  (knock-on, start unknown)"
+Frontier,1,Caused by the airline,Airline's own (knock-on),0.1588743263021955,25% reported + 16% knock-on = 41%
+Frontier,1,Caused by the airline,Airline's own (reported),0.24957102667915929,25% reported + 16% knock-on = 41%
+Frontier,2,Air traffic system,Other causes (knock-on),0.15298449823547142,20% reported + 15% knock-on = 35%
+Frontier,2,Air traffic system,Other causes (reported),0.20047684447486178,20% reported + 15% knock-on = 35%
+Frontier,3,Weather,Other causes (knock-on),0.01665185423441618,3% reported + 2% knock-on = 4%
+Frontier,3,Weather,Other causes (reported),0.027372984849266594,3% reported + 2% knock-on = 4%
+Frontier,4,Start unknown*,Start unknown (knock-on),0.19406846522462884,"19%  (knock-on, start unknown)"
+Hawaiian,1,Caused by the airline,Airline's own (knock-on),0.23628647822391402,63% reported + 24% knock-on = 86%
+Hawaiian,1,Caused by the airline,Airline's own (reported),0.6263956900923671,63% reported + 24% knock-on = 86%
+Hawaiian,2,Air traffic system,Other causes (knock-on),0.01041218177771434,1% reported + 1% knock-on = 2%
+Hawaiian,2,Air traffic system,Other causes (reported),0.014274906261171756,1% reported + 1% knock-on = 2%
+Hawaiian,3,Weather,Other causes (knock-on),0.01798602031025263,3% reported + 2% knock-on = 5%
+Hawaiian,3,Weather,Other causes (reported),0.03163009951696444,3% reported + 2% knock-on = 5%
+Hawaiian,4,Start unknown*,Start unknown (knock-on),0.06301462381761615,"6%  (knock-on, start unknown)"
+JetBlue,1,Caused by the airline,Airline's own (knock-on),0.1199348426745811,27% reported + 12% knock-on = 39%
+JetBlue,1,Caused by the airline,Airline's own (reported),0.2733113199468905,27% reported + 12% knock-on = 39%
+JetBlue,2,Air traffic system,Other causes (knock-on),0.13494141497809278,25% reported + 13% knock-on = 38%
+JetBlue,2,Air traffic system,Other causes (reported),0.24899059549358382,25% reported + 13% knock-on = 38%
+JetBlue,3,Weather,Other causes (knock-on),0.012368794167002173,3% reported + 1% knock-on = 4%
+JetBlue,3,Weather,Other causes (reported),0.026703794541045413,3% reported + 1% knock-on = 4%
+JetBlue,4,Start unknown*,Start unknown (knock-on),0.18374923819880487,"18%  (knock-on, start unknown)"
+PSA,1,Caused by the airline,Airline's own (knock-on),0.13798183263995564,29% reported + 14% knock-on = 43%
+PSA,1,Caused by the airline,Airline's own (reported),0.29074519103437385,29% reported + 14% knock-on = 43%
+PSA,2,Air traffic system,Other causes (knock-on),0.09843438923615484,13% reported + 10% knock-on = 23%
+PSA,2,Air traffic system,Other causes (reported),0.13259697680601376,13% reported + 10% knock-on = 23%
+PSA,3,Weather,Other causes (knock-on),0.036747917613694565,9% reported + 4% knock-on = 12%
+PSA,3,Weather,Other causes (reported),0.08541916207438777,9% reported + 4% knock-on = 12%
+PSA,4,Start unknown*,Start unknown (knock-on),0.2180745305954214,"22%  (knock-on, start unknown)"
+Republic,1,Caused by the airline,Airline's own (knock-on),0.0741155598797939,23% reported + 7% knock-on = 30%
+Republic,1,Caused by the airline,Airline's own (reported),0.22740360033177712,23% reported + 7% knock-on = 30%
+Republic,2,Air traffic system,Other causes (knock-on),0.18658631257528432,32% reported + 19% knock-on = 51%
+Republic,2,Air traffic system,Other causes (reported),0.31938769507830284,32% reported + 19% knock-on = 51%
+Republic,3,Weather,Other causes (knock-on),0.026574075760765224,6% reported + 3% knock-on = 8%
+Republic,3,Weather,Other causes (reported),0.058373561135992076,6% reported + 3% knock-on = 8%
+Republic,4,Start unknown*,Start unknown (knock-on),0.10755919523808427,"11%  (knock-on, start unknown)"
+SkyWest,1,Caused by the airline,Airline's own (knock-on),0.09456298227860327,45% reported + 9% knock-on = 55%
+SkyWest,1,Caused by the airline,Airline's own (reported),0.4528725360826885,45% reported + 9% knock-on = 55%
+SkyWest,2,Air traffic system,Other causes (knock-on),0.030251274608881384,19% reported + 3% knock-on = 22%
+SkyWest,2,Air traffic system,Other causes (reported),0.1880115234984403,19% reported + 3% knock-on = 22%
+SkyWest,3,Weather,Other causes (knock-on),0.00486121393530915,14% reported + 0% knock-on = 14%
+SkyWest,3,Weather,Other causes (reported),0.13873787851532643,14% reported + 0% knock-on = 14%
+SkyWest,4,Start unknown*,Start unknown (knock-on),0.09070259108074837,"9%  (knock-on, start unknown)"
+Southwest,1,Caused by the airline,Airline's own (knock-on),0.19379374892368184,28% reported + 19% knock-on = 48%
+Southwest,1,Caused by the airline,Airline's own (reported),0.28185766193358963,28% reported + 19% knock-on = 48%
+Southwest,2,Air traffic system,Other causes (knock-on),0.17543786872772799,18% reported + 18% knock-on = 36%
+Southwest,2,Air traffic system,Other causes (reported),0.18026937396253712,18% reported + 18% knock-on = 36%
+Southwest,3,Weather,Other causes (knock-on),0.020559208057658918,3% reported + 2% knock-on = 5%
+Southwest,3,Weather,Other causes (reported),0.025280889231543483,3% reported + 2% knock-on = 5%
+Southwest,4,Start unknown*,Start unknown (knock-on),0.12280124916325327,"12%  (knock-on, start unknown)"
+Spirit,1,Caused by the airline,Airline's own (knock-on),0.16258284809180495,32% reported + 16% knock-on = 48%
+Spirit,1,Caused by the airline,Airline's own (reported),0.3169867389399791,32% reported + 16% knock-on = 48%
+Spirit,2,Air traffic system,Other causes (knock-on),0.0706778683162976,36% reported + 7% knock-on = 43%
+Spirit,2,Air traffic system,Other causes (reported),0.3623355104671885,36% reported + 7% knock-on = 43%
+Spirit,3,Weather,Other causes (knock-on),0.007493500330271111,2% reported + 1% knock-on = 2%
+Spirit,3,Weather,Other causes (reported),0.015839507171029242,2% reported + 1% knock-on = 2%
+Spirit,4,Start unknown*,Start unknown (knock-on),0.06408402668343009,"6%  (knock-on, start unknown)"
+United,1,Caused by the airline,Airline's own (knock-on),0.062917018739756,25% reported + 6% knock-on = 31%
+United,1,Caused by the airline,Airline's own (reported),0.24528301021687768,25% reported + 6% knock-on = 31%
+United,2,Air traffic system,Other causes (knock-on),0.1392680710287007,35% reported + 14% knock-on = 49%
+United,2,Air traffic system,Other causes (reported),0.34877824336462326,35% reported + 14% knock-on = 49%
+United,3,Weather,Other causes (knock-on),0.011381222990593312,4% reported + 1% knock-on = 5%
+United,3,Weather,Other causes (reported),0.039938349352750736,4% reported + 1% knock-on = 5%
+United,4,Start unknown*,Start unknown (knock-on),0.15243408430669803,"15%  (knock-on, start unknown)"

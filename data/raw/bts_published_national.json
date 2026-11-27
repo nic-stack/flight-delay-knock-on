@@ -1,0 +1,566 @@
+{
+ "October, 2025": {
+  "On Time": [
+   531015,
+   79.45,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   40208,
+   6.02,
+   "2,862,062"
+  ],
+  "Weather Delay": [
+   2699,
+   0.4,
+   "278,109"
+  ],
+  "National Aviation System Delay": [
+   41161,
+   6.16,
+   "1,958,492"
+  ],
+  "Security Delay": [
+   210,
+   0.03,
+   "9,559"
+  ],
+  "Aircraft Arriving Late": [
+   48172,
+   7.21,
+   "3,446,873"
+  ],
+  "Cancelled": [
+   3694,
+   0.55,
+   "N/A"
+  ],
+  "Diverted": [
+   1171,
+   0.18,
+   "N/A"
+  ],
+  "Total Operations": [
+   668332,
+   100.0,
+   "8,555,095"
+  ]
+ },
+ "November, 2025": {
+  "On Time": [
+   487399,
+   77.34,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   36415,
+   5.78,
+   "2,770,481"
+  ],
+  "Weather Delay": [
+   3422,
+   0.54,
+   "426,373"
+  ],
+  "National Aviation System Delay": [
+   40392,
+   6.41,
+   "2,445,052"
+  ],
+  "Security Delay": [
+   206,
+   0.03,
+   "11,325"
+  ],
+  "Aircraft Arriving Late": [
+   44784,
+   7.11,
+   "3,666,046"
+  ],
+  "Cancelled": [
+   16380,
+   2.6,
+   "N/A"
+  ],
+  "Diverted": [
+   1179,
+   0.19,
+   "N/A"
+  ],
+  "Total Operations": [
+   630188,
+   100.0,
+   "9,319,277"
+  ]
+ },
+ "December, 2025": {
+  "On Time": [
+   462737,
+   71.74,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   52539,
+   8.15,
+   "4,205,914"
+  ],
+  "Weather Delay": [
+   6193,
+   0.96,
+   "835,063"
+  ],
+  "National Aviation System Delay": [
+   44752,
+   6.94,
+   "2,438,837"
+  ],
+  "Security Delay": [
+   351,
+   0.05,
+   "18,137"
+  ],
+  "Aircraft Arriving Late": [
+   66298,
+   10.28,
+   "5,533,319"
+  ],
+  "Cancelled": [
+   10540,
+   1.63,
+   "N/A"
+  ],
+  "Diverted": [
+   1577,
+   0.24,
+   "N/A"
+  ],
+  "Total Operations": [
+   644987,
+   100.0,
+   "13,031,270"
+  ]
+ },
+ "January, 2026": {
+  "On Time": [
+   453927,
+   75.28,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   39790,
+   6.6,
+   "3,313,777"
+  ],
+  "Weather Delay": [
+   6210,
+   1.03,
+   "856,196"
+  ],
+  "National Aviation System Delay": [
+   32219,
+   5.34,
+   "1,608,260"
+  ],
+  "Security Delay": [
+   210,
+   0.03,
+   "12,005"
+  ],
+  "Aircraft Arriving Late": [
+   40243,
+   6.67,
+   "3,309,704"
+  ],
+  "Cancelled": [
+   29078,
+   4.82,
+   "N/A"
+  ],
+  "Diverted": [
+   1276,
+   0.21,
+   "N/A"
+  ],
+  "Total Operations": [
+   602953,
+   100.0,
+   "9,099,942"
+  ]
+ },
+ "February, 2026": {
+  "On Time": [
+   446299,
+   78.46,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   36669,
+   6.45,
+   "2,833,039"
+  ],
+  "Weather Delay": [
+   3817,
+   0.67,
+   "447,308"
+  ],
+  "National Aviation System Delay": [
+   29603,
+   5.2,
+   "1,376,219"
+  ],
+  "Security Delay": [
+   212,
+   0.04,
+   "11,634"
+  ],
+  "Aircraft Arriving Late": [
+   37699,
+   6.63,
+   "2,858,190"
+  ],
+  "Cancelled": [
+   13348,
+   2.35,
+   "N/A"
+  ],
+  "Diverted": [
+   1144,
+   0.2,
+   "N/A"
+  ],
+  "Total Operations": [
+   568789,
+   100.0,
+   "7,526,390"
+  ]
+ },
+ "March, 2026": {
+  "On Time": [
+   495542,
+   73.36,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   50076,
+   7.41,
+   "4,144,756"
+  ],
+  "Weather Delay": [
+   5451,
+   0.81,
+   "740,589"
+  ],
+  "National Aviation System Delay": [
+   42285,
+   6.26,
+   "2,589,403"
+  ],
+  "Security Delay": [
+   531,
+   0.08,
+   "26,477"
+  ],
+  "Aircraft Arriving Late": [
+   59394,
+   8.79,
+   "5,084,141"
+  ],
+  "Cancelled": [
+   19885,
+   2.94,
+   "N/A"
+  ],
+  "Diverted": [
+   2317,
+   0.34,
+   "N/A"
+  ],
+  "Total Operations": [
+   675500,
+   100.0,
+   "12,585,366"
+  ]
+ },
+ "April, 2026": {
+  "On Time": [
+   523132,
+   79.18,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   39411,
+   5.97,
+   "2,920,821"
+  ],
+  "Weather Delay": [
+   3849,
+   0.58,
+   "432,125"
+  ],
+  "National Aviation System Delay": [
+   36947,
+   5.59,
+   "1,821,766"
+  ],
+  "Security Delay": [
+   210,
+   0.03,
+   "9,285"
+  ],
+  "Aircraft Arriving Late": [
+   49767,
+   7.53,
+   "3,632,094"
+  ],
+  "Cancelled": [
+   5877,
+   0.89,
+   "N/A"
+  ],
+  "Diverted": [
+   1462,
+   0.22,
+   "N/A"
+  ],
+  "Total Operations": [
+   660674,
+   100.0,
+   "8,816,091"
+  ]
+ },
+ "May, 2026": {
+  "On Time": [
+   526704,
+   77.78,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   44270,
+   6.54,
+   "3,199,912"
+  ],
+  "Weather Delay": [
+   4723,
+   0.7,
+   "573,503"
+  ],
+  "National Aviation System Delay": [
+   38549,
+   5.69,
+   "1,962,184"
+  ],
+  "Security Delay": [
+   259,
+   0.04,
+   "11,908"
+  ],
+  "Aircraft Arriving Late": [
+   54396,
+   8.03,
+   "4,032,873"
+  ],
+  "Cancelled": [
+   6353,
+   0.94,
+   "N/A"
+  ],
+  "Diverted": [
+   1936,
+   0.29,
+   "N/A"
+  ],
+  "Total Operations": [
+   677208,
+   100.0,
+   "9,780,380"
+  ]
+ },
+ "June, 2026": {
+  "On Time": [
+   491189,
+   73.12,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   49434,
+   7.36,
+   "3,820,575"
+  ],
+  "Weather Delay": [
+   6947,
+   1.03,
+   "841,189"
+  ],
+  "National Aviation System Delay": [
+   43132,
+   6.42,
+   "2,530,106"
+  ],
+  "Security Delay": [
+   284,
+   0.04,
+   "13,985"
+  ],
+  "Aircraft Arriving Late": [
+   66761,
+   9.94,
+   "5,309,883"
+  ],
+  "Cancelled": [
+   11457,
+   1.71,
+   "N/A"
+  ],
+  "Diverted": [
+   2558,
+   0.38,
+   "N/A"
+  ],
+  "Total Operations": [
+   671781,
+   100.0,
+   "12,515,738"
+  ]
+ },
+ "July, 2026": {
+  "On Time": [
+   484871,
+   69.49,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   57341,
+   8.22,
+   "4,753,299"
+  ],
+  "Weather Delay": [
+   7794,
+   1.12,
+   "989,086"
+  ],
+  "National Aviation System Delay": [
+   48131,
+   6.9,
+   "3,008,066"
+  ],
+  "Security Delay": [
+   318,
+   0.05,
+   "17,988"
+  ],
+  "Aircraft Arriving Late": [
+   76217,
+   10.92,
+   "6,404,236"
+  ],
+  "Cancelled": [
+   19438,
+   2.79,
+   "N/A"
+  ],
+  "Diverted": [
+   3615,
+   0.52,
+   "N/A"
+  ],
+  "Total Operations": [
+   697754,
+   100.0,
+   "15,172,675"
+  ]
+ },
+ "August, 2026": {
+  "On Time": [
+   481471,
+   71.53,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   49033,
+   7.29,
+   "4,005,937"
+  ],
+  "Weather Delay": [
+   7112,
+   1.06,
+   "843,655"
+  ],
+  "National Aviation System Delay": [
+   50110,
+   7.45,
+   "3,172,358"
+  ],
+  "Security Delay": [
+   315,
+   0.05,
+   "17,159"
+  ],
+  "Aircraft Arriving Late": [
+   68412,
+   10.16,
+   "5,860,697"
+  ],
+  "Cancelled": [
+   13478,
+   2.0,
+   "N/A"
+  ],
+  "Diverted": [
+   3105,
+   0.46,
+   "N/A"
+  ],
+  "Total Operations": [
+   673065,
+   100.0,
+   "13,899,806"
+  ]
+ },
+ "September, 2026": {
+  "On Time": [
+   482455,
+   76.56,
+   "N/A"
+  ],
+  "Air Carrier Delay": [
+   40210,
+   6.38,
+   "2,928,521"
+  ],
+  "Weather Delay": [
+   4461,
+   0.71,
+   "470,000"
+  ],
+  "National Aviation System Delay": [
+   42205,
+   6.7,
+   "2,417,430"
+  ],
+  "Security Delay": [
+   216,
+   0.03,
+   "9,591"
+  ],
+  "Aircraft Arriving Late": [
+   52961,
+   8.4,
+   "4,172,604"
+  ],
+  "Cancelled": [
+   5691,
+   0.9,
+   "N/A"
+  ],
+  "Diverted": [
+   1966,
+   0.31,
+   "N/A"
+  ],
+  "Total Operations": [
+   630177,
+   100.0,
+   "9,998,146"
+  ]
+ }
+}
